@@ -1,7 +1,6 @@
 # Tic-Tac-Toe Game
 This is Tic-Tac-Toe game.
-
-It is offline game and can be played with two players
+It is offline game and can be played with two players.
 
 How to play this game ?
 
