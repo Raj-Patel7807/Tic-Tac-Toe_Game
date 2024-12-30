@@ -48,7 +48,7 @@ boxes.forEach((box) => {
 });
 
 const gameDraw = () => {
-    msg.innerText = `Oops!, Game was a Draw.`
+    msg.innerText = `Oops!, The Game was a Draw.`
     msgContainer.classList.remove("hide");
     disableBoxes();
 };
