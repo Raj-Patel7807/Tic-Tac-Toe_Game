@@ -65,6 +65,7 @@ const enableBoxes = () => {
         box.disabled = false;
         box.innerText = "";
         box.style.backgroundColor = "";
+        box.style.color = "";
     }
 };
 
